@@ -41,14 +41,14 @@ int main()
     if (a > d)
     {
 
-        cout << "Anton\n";
+        cout << "Anton\n" << endl;
         return 0;
     }
     else if (d > a)
     {
-        cout << "Danik\n";
+        cout << "Danik" <<endl;
         return 0;
     }
-    cout << "Friendship\n";
+    cout << "Friendship\n" << endl;
 
 }
